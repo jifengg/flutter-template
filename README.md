@@ -48,3 +48,4 @@ Tools • Dart 3.0.0 • DevTools 2.23.1
 
 - 项目初始化
   - [修改图标](docs/init.md#修改图标)
+- [使用到的包的说明](docs/packages.md)
