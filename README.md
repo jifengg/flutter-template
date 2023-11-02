@@ -51,4 +51,5 @@ Tools • Dart 3.0.0 • DevTools 2.23.1
 - [使用到的包的说明](docs/packages.md)
 - [常用UI简化组件](docs/simple-widgets.md)
   - [简单的描述列表SimpleTableView](docs/simple-widgets.md#简单的描述列表SimpleTableView)
+  - [常用的弹框 Simple Dialog](docs/simple-widgets.md#常用的弹框-Simple-Dialog)
 - 
